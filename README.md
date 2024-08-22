@@ -31,14 +31,8 @@ I am committed to continuous professional development and am always eager to lea
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to explore my portfolio, and don't hesitate to reach out if you'd like to discuss a project, potential collaboration, or simply to connect.
 
 - **Email**: [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
--  <a href="https://www.linkedin.com/in/jakeshielbsc/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="vertical-align: middle;" />
-    </picture>
-  </a> : https://www.linkedin.com/in/jakeshielbsc/
-- **Portfolio**: [jakeshiel-data-analyst](https://your-portfolio-link-here)
+- **LinkedIn**: [Jake Shiel](https://www.linkedin.com/in/jakeshielbsc/)
+- **Portfolio**: [jakeshiel-data-analyst](https://sites.google.com/view/jakeshiel-data-analyst/home)
 
 
 
