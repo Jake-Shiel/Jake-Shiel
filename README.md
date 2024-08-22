@@ -19,6 +19,9 @@ Advanced Excel: Expertise in Microsoft Excel, including Pivot Tables, VLOOKUP, a
 
 Project Management & Operations: My experience at Amazon has equipped me with exceptional project management skills, particularly in logistics and operations management, where I have successfully led teams, optimized processes, and driven performance improvements.
 
+#### Aspiring to Make an Impact
+I am committed to continuous professional development and am always eager to learn new technologies and methodologies. My goal is to transition fully into a data analyst role where I can leverage my skills to make data-driven decisions that have a tangible impact on businesses. I am particularly interested in opportunities that allow me to work with experienced professionals and collaborate with like-minded individuals who share my passion for data.
+
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
 * 🧠  I'm learning Python and R for Data Analysis
@@ -27,7 +30,9 @@ Project Management & Operations: My experience at Amazon has equipped me with ex
 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
