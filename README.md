@@ -6,7 +6,8 @@ Data Analyst
 
 *   🌍  I'm based in United Kingdom
 *   ✉️  You can contact me at [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
-*   🧠  I'm learning Python and R for Data Analysis### Skills 
+*   🧠  I'm learning Python and R for Data Analysis
+  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
                     </p>
