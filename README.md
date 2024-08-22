@@ -1,7 +1,7 @@
 Hi 👋 My name is Jake Shiel
 ===========================
 
-Aspiring Data Analyst
+Data Analyst
 ---------------------
 
 *   🌍  I'm based in United Kingdom
