@@ -22,31 +22,16 @@ Project Management & Operations: My experience at Amazon has equipped me with ex
 #### Aspiring to Make an Impact
 I am committed to continuous professional development and am always eager to learn new technologies and methodologies. My goal is to transition fully into a data analyst role where I can leverage my skills to make data-driven decisions that have a tangible impact on businesses. I am particularly interested in opportunities that allow me to work with experienced professionals and collaborate with like-minded individuals who share my passion for data.
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
-* 🧠  I'm learning Python and R for Data Analysis
-
 ### Let's Connect
-
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to explore my portfolio, and don't hesitate to reach out if you'd like to discuss a project, potential collaboration, or simply to connect.
 
 - **Email**: [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
 - **LinkedIn**: [Jake Shiel](https://www.linkedin.com/in/jakeshielbsc/)
 - **Portfolio**: [jakeshiel-data-analyst](https://sites.google.com/view/jakeshiel-data-analyst/home)
 
-
-
 ### Skills
-
-
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Jake-Shiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
-</a> <a href="https://www.linkedin.com/in/jakeshielbsc/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
