@@ -26,6 +26,15 @@ I am committed to continuous professional development and am always eager to lea
 * ✉️  You can contact me at [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
 * 🧠  I'm learning Python and R for Data Analysis
 
+### Let's Connect
+I am always open to new opportunities, collaborations, and learning experiences. Feel free to explore my portfolio, and don't hesitate to reach out if you'd like to discuss a project, potential collaboration, or simply to connect.
+
+* ✉️  You can contact me at [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
+LinkedIn: linkedin.com/in/jakeshielbsc
+Portfolio: jakeshiel-data-analyst
+Thank you for visiting my GitHub profile. I look forward to connecting with you!
+
+
 ### Skills
 
 
@@ -38,4 +47,5 @@ I am committed to continuous professional development and am always eager to lea
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Jake-Shiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jakeshielbsc/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Jake-Shiel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> 
+</a> <a href="https://www.linkedin.com/in/jakeshielbsc/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
