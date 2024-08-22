@@ -30,6 +30,7 @@ I am committed to continuous professional development and am always eager to lea
 I am always open to new opportunities, collaborations, and learning experiences. Feel free to explore my portfolio, and don't hesitate to reach out if you'd like to discuss a project, potential collaboration, or simply to connect.
 
 ✉️  You can contact me at [jakeshiel33@gmail.com](mailto:jakeshiel33@gmail.com)
+
 </a> <a href="https://www.linkedin.com/in/jakeshielbsc/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>: linkedin.com/in/jakeshielbsc
 Portfolio: jakeshiel-data-analyst
 Thank you for visiting my GitHub profile. I look forward to connecting with you!
